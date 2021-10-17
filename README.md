@@ -11,7 +11,6 @@
 
 
 ![Image of program](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jullys-alisson&show_icons=true&locale=en&layout=compact" alt="jullys-alisson" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jullys-alisson&show_icons=true&locale=en" alt="jullys-alisson" /></p>
 
