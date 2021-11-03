@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jullys Alisson</h1>
-<h3 align="center">A passionate FullStack developer from Brasil</h3>
+<h3 align="center">Brazilian developer, passionate about Full Stack</h3>
 
 - 🔭 I’m currently working on **Dev Full Stack**
 
