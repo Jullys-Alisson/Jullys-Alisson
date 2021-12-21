@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Dev Full Stack**
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, .NET, ANULAR, C#**
+- 🌱 I’m currently working **Javascript, HTML, CSS, .NET, ANGULAR, C#**
 
 - 👯 I’m looking to collaborate on **samples projects**
 
